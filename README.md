@@ -48,6 +48,7 @@ Designed a Star Schema data model (1 Fact table to Many Dimension tables) for op
 
 ## 📸 Screenshots
 
-![Star Schema Part 1](Untitled_1.png)
-![Star Schema Part 2](Untitled_2.png)
-![Star Schema Part 3](Untitled_3.png)
+![Azure Gold Container Folders](Untitled_1.png)
+![Star Schema Part 1](Untitled_2.png)
+![Star Schema Part 2](Untitled_3.png)
+![Star Schema Part 3](Untitled_4.png)
